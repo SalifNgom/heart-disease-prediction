@@ -36,7 +36,10 @@ du modèle dans un contexte médical.
 Ce projet démontre l’intérêt du machine learning pour la prédiction du risque cardiaque.
 Il met également en évidence l’importance d’interpréter les résultats au-delà de l’accuracy globale,
 en accordant une attention particulière au rappel (recall), essentiel dans les applications médicales.
-Des améliorations futures pourraient inclure :- l’optimisation des hyperparamètres- l’utilisation de modèles plus robustes comme Random Forest ou XGBoost- l’ajustement du seuil de classification pour réduire les faux négatifs
+Des améliorations futures pourraient inclure :
+- l’optimisation des hyperparamètres
+- l’utilisation de modèles plus robustes comme Random Forest ou XGBoost
+- l’ajustement du seuil de classification pour réduire les faux négatifs
 ## 6. Compétences mobilisées
 - Python
 - Pandas
